@@ -26,17 +26,17 @@ body, html{
 }
 
 .TokyoSkyline{
-	background-image: url(VisualAnthro.github.io/Images/TokyoSkyline.jpg);
+	background-image: url(Images/TokyoSkyline.jpg);
 	min-height: 100%;
 }
 
 .Shrine{
-	background-image: url(VisualAnthro.github.io/Images/Shrine.jpg);
+	background-image: url(Images/Shrine.jpg);
 	min-height: 400px;
 }
 
 .Sushi{
-	background-image: url(VisualAnthro.github.io/Images/Sushi.jpg);
+	background-image: url(Images/Sushi.jpg);
 	min-height: 400px;
 }
 
